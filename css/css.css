@@ -1,0 +1,122 @@
+.div1{
+    background-image: url("../images/slider-2.jpg");
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 1600px;
+    /* height: 750px; */
+    height: 750px;
+}
+.div11{
+    margin-left: 330px;
+}
+h1{
+    font-size: 50px;
+}
+a{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding : 30px 50px 30px 50px;
+    margin-top: 100px;
+    margin: -1px;;
+}
+a:hover{
+ background-color: rgba(14, 13, 13, 0.746); 
+ color: white
+}
+.a1{
+    background-color: rgba(14, 13, 13, 0.746);
+    color: white;
+}
+.div12{
+    margin-top: 443px;
+}
+.div1212{
+    height: 50px;
+    margin-left: 330px;
+    margin-right: 334px;
+    background-color: rgba(24, 22, 22, 0.698)
+}
+.item-2{
+    background-color: rgba(240, 248, 255, 0.808);;
+    padding: 20px 120px 25px;
+    margin-left: 330px;
+    margin-bottom: -4px;
+    float: left;
+}
+
+.item-3{
+    background-color: rgba(240, 248, 255, 0.808);;
+    padding: 20px 120px 25px;
+    margin-bottom: -4px;
+    float: left;
+}
+.item-4{
+    background-color: rgba(240, 248, 255, 0.808);
+    padding: 20px 120px 25px;
+    margin-bottom: -4px;
+}
+.div13style{
+    background-color: white;
+    margin-left: 330px;
+    margin-right: 334px;
+    float: left;
+    height: 233px;
+}
+.div13{
+    margin-left: 20px;
+    margin-top: 0px;
+    float: left;
+}
+.div14{
+    margin-left: 80px;
+    margin-top: 0px;
+    float: left;
+}
+.div15{
+    margin-left: 80px;
+    margin-top: 0px;
+    float: left;
+}
+button{
+    background-color: black;
+    color: white;
+    border: 0px;
+    padding: 10px;    
+    border-radius: 5px;
+}
+button:hover{
+    background-color: red;
+    transition:  2s;
+}
+.divimg{
+    background-image: url("../images/bg.png");
+    height: 500px;
+}
+.divv{
+    margin-left: 330px;
+    float: left;
+}
+.divv1{
+    margin-left: 10px;
+    float: left;
+}
+.divv2{
+    float: left;
+
+}
+.hr{
+    background-image: url("../images/bg.png");
+    height: auto;
+}
+.hrstylr{
+    margin-left: 330px;
+    margin-right: 334px;
+    background-color: black;
+    height: 5px;
+
+}
+.fusce{
+    margin-left: 330px;
+}
